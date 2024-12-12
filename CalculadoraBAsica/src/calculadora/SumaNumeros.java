@@ -4,6 +4,8 @@ import java.util.Scanner;
 
 // Este programa lo que hace es sumar 2 numeros enteros
 
+// Cambio realizado con la branca feature-suma
+
 public class SumaNumeros {
 	
 	public static void main(String[] args) {
